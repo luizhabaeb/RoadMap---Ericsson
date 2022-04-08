@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\bin\Debug\net6.0\Herança.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\bin\Debug\net6.0\Herança.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\bin\Debug\net6.0\Herança.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\bin\Debug\net6.0\Herança.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\bin\Debug\net6.0\ref\Herança.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\bin\Debug\net6.0\Herança.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\ref\Herança.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Herança\obj\Debug\net6.0\Herança.genruntimeconfig.cache

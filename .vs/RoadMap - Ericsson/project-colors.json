@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7daec09b-b4ab-4528-8ca2-c148fe4dca5a": {
+      "ProjectGuid": "7daec09b-b4ab-4528-8ca2-c148fe4dca5a",
+      "DisplayName": "RoadMap - Ericsson",
+      "ColorIndex": 0
+    },
+    "cf017336-1881-4b7a-a42a-00adf8505421": {
+      "ProjectGuid": "cf017336-1881-4b7a-a42a-00adf8505421",
+      "DisplayName": "Tabuada do 5",
+      "ColorIndex": 1
+    },
+    "64e50dad-4cac-442a-b6cc-bd1c9ea66319": {
+      "ProjectGuid": "64e50dad-4cac-442a-b6cc-bd1c9ea66319",
+      "DisplayName": "Menu_Nome_Idade",
+      "ColorIndex": 2
+    },
+    "7734b029-a0b2-40ed-958d-b54a510951b4": {
+      "ProjectGuid": "7734b029-a0b2-40ed-958d-b54a510951b4",
+      "DisplayName": "1-10",
+      "ColorIndex": 3
+    },
+    "a08dd24c-f6cb-457d-a3d1-a0534288c631": {
+      "ProjectGuid": "a08dd24c-f6cb-457d-a3d1-a0534288c631",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 4
+    },
+    "a609b9de-a4c8-482b-9c0d-ca838cfb53ad": {
+      "ProjectGuid": "a609b9de-a4c8-482b-9c0d-ca838cfb53ad",
+      "DisplayName": "Exe4",
+      "ColorIndex": 5
+    },
+    "82bf7ce8-1da8-4d00-9b78-abc34e5b485e": {
+      "ProjectGuid": "82bf7ce8-1da8-4d00-9b78-abc34e5b485e",
+      "DisplayName": "teste",
+      "ColorIndex": 6
+    },
+    "990feace-829f-460b-99ff-981fda09e369": {
+      "ProjectGuid": "990feace-829f-460b-99ff-981fda09e369",
+      "DisplayName": "Exe3",
+      "ColorIndex": 7
+    },
+    "22a1ab85-4264-4705-9115-95528bc4dda4": {
+      "ProjectGuid": "22a1ab85-4264-4705-9115-95528bc4dda4",
+      "DisplayName": "Exe5",
+      "ColorIndex": 8
+    },
+    "bb7306b2-9f35-4b20-b94b-30befb6bb282": {
+      "ProjectGuid": "bb7306b2-9f35-4b20-b94b-30befb6bb282",
+      "DisplayName": "Classes",
+      "ColorIndex": 9
+    },
+    "4c50bd22-5269-4660-9394-3302e22dcdc8": {
+      "ProjectGuid": "4c50bd22-5269-4660-9394-3302e22dcdc8",
+      "DisplayName": "Lista_Impares",
+      "ColorIndex": 10
+    },
+    "d5220a11-dbed-4609-bfd1-80c26029ac49": {
+      "ProjectGuid": "d5220a11-dbed-4609-bfd1-80c26029ac49",
+      "DisplayName": "Lista_Soma",
+      "ColorIndex": 11
+    },
+    "f18f969c-8984-4913-8456-0d00133c1afd": {
+      "ProjectGuid": "f18f969c-8984-4913-8456-0d00133c1afd",
+      "DisplayName": "Herança",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

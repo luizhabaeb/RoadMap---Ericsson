@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\bin\Debug\net6.0\RoadMap - Ericsson.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\bin\Debug\net6.0\RoadMap - Ericsson.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\bin\Debug\net6.0\RoadMap - Ericsson.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\bin\Debug\net6.0\RoadMap - Ericsson.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\bin\Debug\net6.0\ref\RoadMap - Ericsson.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\bin\Debug\net6.0\RoadMap - Ericsson.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.vbproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.AssemblyInfo.vb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.vbproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\ref\RoadMap - Ericsson.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\RoadMap - Ericsson\obj\Debug\net6.0\RoadMap - Ericsson.genruntimeconfig.cache

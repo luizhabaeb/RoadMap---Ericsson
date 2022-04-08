@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\bin\Debug\net6.0\Exe4.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\bin\Debug\net6.0\Exe4.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\bin\Debug\net6.0\Exe4.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\bin\Debug\net6.0\Exe4.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\bin\Debug\net6.0\ref\Exe4.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\bin\Debug\net6.0\Exe4.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.vbproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.AssemblyInfo.vb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.vbproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\ref\Exe4.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe4\obj\Debug\net6.0\Exe4.genruntimeconfig.cache

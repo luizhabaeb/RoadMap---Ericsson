@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.vbproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.AssemblyInfo.vb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.vbproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\bin\Debug\net6.0\Menu_Nome_Idade.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\bin\Debug\net6.0\Menu_Nome_Idade.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\bin\Debug\net6.0\Menu_Nome_Idade.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\bin\Debug\net6.0\Menu_Nome_Idade.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\bin\Debug\net6.0\ref\Menu_Nome_Idade.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\bin\Debug\net6.0\Menu_Nome_Idade.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\ref\Menu_Nome_Idade.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Menu_Nome_Idade\obj\Debug\net6.0\Menu_Nome_Idade.genruntimeconfig.cache

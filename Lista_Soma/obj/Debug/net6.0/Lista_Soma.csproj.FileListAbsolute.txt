@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\bin\Debug\net6.0\Lista_Soma.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\bin\Debug\net6.0\Lista_Soma.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\bin\Debug\net6.0\Lista_Soma.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\bin\Debug\net6.0\Lista_Soma.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\bin\Debug\net6.0\ref\Lista_Soma.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\bin\Debug\net6.0\Lista_Soma.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\ref\Lista_Soma.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.genruntimeconfig.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Soma\obj\Debug\net6.0\Lista_Soma.csproj.AssemblyReference.cache

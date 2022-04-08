@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\bin\Debug\net6.0\teste.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\bin\Debug\net6.0\teste.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\bin\Debug\net6.0\ref\teste.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.vbproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.AssemblyInfo.vb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.vbproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\ref\teste.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\bin\Debug\net6.0\Lista_Impares.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\bin\Debug\net6.0\Lista_Impares.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\bin\Debug\net6.0\Lista_Impares.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\bin\Debug\net6.0\Lista_Impares.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\bin\Debug\net6.0\ref\Lista_Impares.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\bin\Debug\net6.0\Lista_Impares.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\ref\Lista_Impares.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Lista_Impares\obj\Debug\net6.0\Lista_Impares.genruntimeconfig.cache

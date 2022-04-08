@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\bin\Debug\net6.0\Exe5.exe
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\bin\Debug\net6.0\Exe5.deps.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\bin\Debug\net6.0\Exe5.runtimeconfig.json
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\bin\Debug\net6.0\Exe5.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\bin\Debug\net6.0\ref\Exe5.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\bin\Debug\net6.0\Exe5.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.AssemblyInfo.vb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.vbproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\ref\Exe5.dll
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.pdb
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.genruntimeconfig.cache
+C:\Users\elisilu\source\repos\RoadMap - Ericsson\Exe5\obj\Debug\net6.0\Exe5.vbproj.AssemblyReference.cache
